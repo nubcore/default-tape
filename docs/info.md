@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+You mash buttons until the build doesn't fail.
 
 ## How to test
 
-Explain how to use your project
+Plug it in and turn on. If there's now smoke call it a success 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
