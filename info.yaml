@@ -3,7 +3,7 @@ project:
   title:        "DEFAULT"
   author:       "Beau Ambur"
   discord:      "beepboop2900"
-  description:  "Displays 'bEAU bY dEFAULt' on 7-segment LED"
+  description:  "Displays 'dEFAULt123' on 7-segment LED"
   language:     "Verilog"
   clock_hz:     1
 
@@ -16,6 +16,7 @@ project:
   # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
   source_files:
     - "project.v"
+    - "decoder.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
