@@ -1,11 +1,12 @@
 # Tiny Tapeout project information
 project:
-  title:        "Tiny Tapeout by DEFAULT"      # Project title
-  author:       "DEFAULT/NUBcore"      # Your name
-  discord:      "beepboop2900"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "No idea yet what this will do."      # One line description of what your project does
-  language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
-  clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
+  wokwi_id:     395178062610604033
+  title:        "DEFAULT"
+  author:       "Beau Ambur"
+  discord:      "beepboop2900"
+  description:  "Displays 'bEAU bY dEFAULt' on 7-segment LED"
+  language:     "Wokwi"
+  clock_hz:     1
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
