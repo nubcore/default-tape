@@ -22,7 +22,7 @@ module tb ();
   wire [7:0] uio_out;
   wire [7:0] uio_oe;
 
-  // Replace tt_um_example with your module name:
+  // module name of user project:
   tt_um_nubcore_default_tape user_project (
 
       // Include power ports for the Gate Level test:
